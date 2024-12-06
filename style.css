@@ -1,0 +1,36 @@
+body {
+ background-color: #f5f5f5;
+}
+
+.git-hub {
+    background-color: #6a0dad;
+    border-radius: 5px;
+    border: 3px solid #6a0dad;
+    color: white;
+}
+
+.git-hub:hover {
+    color: #6a0dad;
+    background-color: #f5f5f5;
+    border: 3px #6a0dad solid;
+}
+
+h1, h2, h3 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.caps {
+    text-transform: uppercase;
+}
+
+.text-purple {
+    color: #6a0dad;
+}
+
+.text-white {
+    color: #f5f5f5;
+}
+
+.bg-purple {
+    background-color: #6a0dad;
+}
